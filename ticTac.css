@@ -8,14 +8,16 @@ body {
     text-align: center;
     color: #fff;
     font-size: 5vmin;
+    
 }
 
 
 .container {
-    height: 70vh;
+    height: 60vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 2rem;
 }
 
 .game {
@@ -41,24 +43,24 @@ body {
     background-color: #EEF296;
 }
 
-#resetBtn {
+#resetBtn {  
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #fff;
-    color:black;
+    background-color: rgba(255, 255, 255, 0.15);
+    color: #fff;
     border-radius: 1rem;
-    border: none;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    margin-top: 3rem;
 
 }
 
 #newGame {
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #fff;
-    color: #191913;
+    background-color:  rgba(255, 255, 255, 0.15);;
+    color: #fff;
     border-radius: 1rem;
-    border: none;
-
+    border: 1px solid rgba(255, 255, 255, 0.25);
 }
 
 #msg {
