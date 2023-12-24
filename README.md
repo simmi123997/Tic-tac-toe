@@ -1,3 +1,1 @@
-
-Tic Tac Toe, also known as Noughts and Crosses, is a classic two-player game that's both fun and challenging. 
-Build this game using HTML, CSS and Javascript.
+This repository contains a web-based implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript, also known as Noughts and Crosses. The game provides an interactive experience where two players can compete against each other on a virtual game board.
